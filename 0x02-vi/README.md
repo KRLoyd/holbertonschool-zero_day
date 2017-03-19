@@ -2,6 +2,7 @@
 
 ## Purpose
 To be able to explain the following:
+
 	* What is vi?
 	* Who is Bill Joy?
 	* Basic vi commands:
